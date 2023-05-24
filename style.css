@@ -1,0 +1,23 @@
+* {
+    font-family: monospace, fantasy, "times new roman";
+    color: black;
+    background-color: whitesmoke;
+}
+
+h1,h2,h3 {
+    text-align: center;
+    background-color: bisque;
+}
+
+img {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.link {
+    color: rgb(76, 77, 80);
+}
