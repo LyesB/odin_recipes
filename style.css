@@ -5,8 +5,14 @@
 }
 
 h1,h2,h3 {
+    color: rgb(211, 166, 211);
     text-align: center;
-    background-color: bisque;
+    background-color: rebeccapurple;
+}
+.title1 {
+    display: block;
+    margin: auto;
+    padding: 40px;
 }
 
 img {
@@ -19,5 +25,8 @@ img {
 }
 
 .link {
-    color: rgb(76, 77, 80);
+    color: rebeccapurple;
+    background-color: rgb(211, 166, 211);
+    font-size: 26px;
+
 }
